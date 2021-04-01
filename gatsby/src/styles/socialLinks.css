@@ -1,0 +1,30 @@
+.logo {
+    width: 30px;
+    height: 30px;
+    opacity: 0.8;
+    transition: 0.2s all ease-in-out;
+}
+
+a {
+    margin: 0px 10px;
+    color: unset;
+}
+
+.logo:hover {
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+.logo:first-child {
+    margin-left: 0px;
+}
+
+.logo:last-child {
+    margin-right: 0px;
+}
+
+.about {
+    font-size: 14px;
+    font-weight: 400;
+    max-width: 300px;
+}
