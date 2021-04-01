@@ -6,7 +6,7 @@ import SocialLinks from '../components/socialLinks'
 
 const IndexPage = () => (
   <Layout>
-    <SEO />
+    <SEO title="Links" />
     <SocialLinks />
   </Layout>
 )
