@@ -82,7 +82,7 @@ const Header = ({ siteTitle }) => (
 
       <h5 style={{ marginBottom: "20px"}}>about me</h5>
       <p className="about">
-        Hey, I’m Kirby! I make all kinds of stuff! If you enjoy it, I’ll be really happy. If not, you can also send me hate mail, and I’ll cry. Please let me know (or send your favorite memes) on whatever platform you feel like ^
+        Hey, I’m Kirby! I aspire to make all kinds of stuff! I'm realizing that I don't want to keep spending time doing things that will get me ready to make art instead of just making art (music, videos, writing, games, apps). Thank you for being here! Also come hang out on whatever platform you feel like ^
       </p>
     </div>
   </div>
